@@ -8,4 +8,4 @@ Once upon the time, I felt in love with front-end engineering. Nowadays, I am ha
 ### Find me around the web:
 - Creating the Monster Village on **[MonsterJS](http://monsterjs.com)** 🌎
 - Working at [7N](https://www.7n.com/) :briefcase: 
-- Playing with [Codepen](https://codepen.io/martatomchuc) :pencil2: 
+- Playing with [Codepen](https://codepen.io/martatomchuck) :pencil2: 
