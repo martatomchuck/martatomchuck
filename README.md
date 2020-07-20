@@ -1,4 +1,4 @@
-![me](/images/Marta.svg)
+![hello]( images/Marta.svg )
 
 Once upon the time, I felt in love with front-end engineering. I am having fun with JavaScript, ReactJS and colorful CSS. I design and code websites and web applications. Previously, I've worked as a corporate lawyer but I couldn't stand wearing heels to work every day. My friends call me a mountain freak after I have climbed Jebel Toubkal, the highest peak of North Africa. 
 
