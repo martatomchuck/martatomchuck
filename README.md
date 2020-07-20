@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my GitHub page :princess:
 
-<!--
-**martatomchuck/martatomchuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Marta. 
 
-Here are some ideas to get you started:
+Once upon the time, I felt in love with front-end development. I am having fun with JavaScript, ReactJS and colorful CSS. I design and code websites and web applications. Previously, I've worked as a corporate lawyer. My friends call me a mountain freak after I have climbed Jebel Toubkal, the highest peak of North Africa. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### :trophy: Hackathon Winner of the Main Prize (Hacking Carrots Hackathon)
+##### :trophy: Hackathon Winner of the Special jury Award (Global Legal Hackathon)
+
+### You can find me around  
+* 🌎 Creating the Monster Village on MonsterJS: http://monsterjs/.com
+* :briefcase: Working at 7N: https://www.7n.com/
+* :pencil2: Playing with Codepen https://codepen.io/martatomchuck
+
+
