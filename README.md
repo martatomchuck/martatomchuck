@@ -6,6 +6,6 @@ Once upon the time, I felt in love with front-end engineering. I am having fun w
 ##### :trophy: Hackathon Winner of the Special jury Award (Global Legal Hackathon)
 
 ### Find me around  
-- Creating the Monster Village on [MonsterJS](http://monsterjs.com) 🌎
-- :briefcase: Working at 7N: https://www.7n.com/
-- :pencil2: Playing with Codepen https://codepen.io/martatomchuck
+- Creating the Monster Village on **[MonsterJS](http://monsterjs.com)** 🌎
+- Working at [7N](https://www.7n.com/) :briefcase: 
+- Playing with [Codepen](https://codepen.io/martatomchuc) :pencil2: 
