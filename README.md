@@ -5,7 +5,7 @@ Once upon the time, I felt in love with front-end engineering. I am having fun w
 ##### :trophy: Hackathon Winner of the Main Prize (Hacking Carrots Hackathon)
 ##### :trophy: Hackathon Winner of the Special jury Award (Global Legal Hackathon)
 
-### Find me around  
+### Find me around the web:
 - Creating the Monster Village on **[MonsterJS](http://monsterjs.com)** 🌎
 - Working at [7N](https://www.7n.com/) :briefcase: 
 - Playing with [Codepen](https://codepen.io/martatomchuc) :pencil2: 
