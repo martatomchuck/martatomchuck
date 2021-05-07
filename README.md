@@ -10,5 +10,4 @@ Once upon the time, I have fallen in love with front-end engineering. It took me
 ### Find me around to say hello:
 - Creating the Monster Village on self-designed **[MonsterJS](https://monsterjs.com)** :heart:
 - Working at [7N](https://www.7n.com/) 
-- Playing with [Codepen](https://codepen.io/martatomchuck) 
 - Sharing updates on [LinkedIn](https://linkedin.com/in/martatomczakcv) 
