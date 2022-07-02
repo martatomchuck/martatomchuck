@@ -8,6 +8,6 @@ Once upon the time, I have fallen in love with front-end engineering. It took me
 ##### :trophy: Hackathon Winner of the Special Jury Award (Global Legal Hackathon, 2020)
 
 ### Find me around to say hello:
-- Creating the Monster Village on self-designed **[MonsterJS](https://monsterjs.com)** :heart:
+- Creating the Monster Village on self-designed **[MonsterJS](https://monsterjs.com)**
 - Sharing updates on [LinkedIn](https://linkedin.com/in/martatomczakcv) 
-- Sipping coffee with Lovely [Buy me a coffee](https://www.buymeacoffee.com/monstervillage) Supporters
+- Sipping coffee with Lovely [Buy me a coffee](https://www.buymeacoffee.com/monstervillage) Supporters :heart:
